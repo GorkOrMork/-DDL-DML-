@@ -9,12 +9,14 @@
 
 1.3 Выполните запрос на получение списка пользователей в Базе Данных. (скриншот)
 
+![image](https://github.com/GorkOrMork/-DDL-DML-/assets/109193124/ab4c17b8-57f2-48cf-8970-e676096aeb60)
 
 
 1.4 Дайте все права для пользователя sys_temp.
 
 1.5 Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
+![image](https://github.com/GorkOrMork/-DDL-DML-/assets/109193124/657598ce-d18d-45c2-98bc-1bdb4f41a6e5)
 
 
 1.6 Переподключитесь к базе данных от имени sys_temp.
@@ -29,6 +31,9 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 1.8 При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
+![image](https://github.com/GorkOrMork/-DDL-DML-/assets/109193124/e67b6ba9-6304-4e98-bb9f-e1328bc4154d)
+
+![image](https://github.com/GorkOrMork/-DDL-DML-/assets/109193124/144eb8cb-d01d-42b1-ae6d-97682c89653d)
 
 
 
@@ -36,4 +41,5 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 
+![image](https://github.com/GorkOrMork/-DDL-DML-/assets/109193124/5dbcce88-3c7d-4a1a-a6e2-f1e2081ddc00)
 
